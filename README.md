@@ -3,7 +3,7 @@ This github organizes the work of the http://www.BenHamedLab.org and collaborato
 
 Other projects BenHamedLab has contributed to:
 
-1. The MacqD Deep Learning-based Model for Automatic Detection of Socially Housed Laboratory Macaques:
+**The MacqD Deep Learning-based Model for Automatic Detection of Socially Housed Laboratory Macaques:**
 
 Genevieve Jiawei Moat, Maxime Gaudet-Trafit, Julian Paul, Jaume Bacardit, Suliann Ben Hamed, Colline Poirier
 
