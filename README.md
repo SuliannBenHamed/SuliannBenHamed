@@ -1,4 +1,4 @@
-This github organizes the work of the BenHamedLab.org and collaborators.
+This github organizes the work of the http://www.BenHamedLab.org and collaborators.
 
 
 The MacqD Deep Learning-based Model for Automatic Detection of Socially Housed Laboratory Macaques:
