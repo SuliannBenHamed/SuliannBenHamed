@@ -15,6 +15,6 @@ Despite advancements in video-based behaviour analysis and detection models for 
 
 **EDNiX (EvoDevo NeuroImaging Explorer)**
 
-Simon Clavagnier*, Clément Garain*, Christos Constantinidis, Léon Tremblay, Suliann Ben Hamed
+Simon Clavagnier*, Clément Garin*, Christos Constantinidis, Léon Tremblay, Suliann Ben Hamed
 
 Coming soon !
