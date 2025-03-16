@@ -16,7 +16,7 @@ Despite advancements in video-based behaviour analysis and detection models for 
 
 * https://github.com/Primate-behaviour/MacqD
 
-**EDNiX (EvoDevo NeuroImaging Explorer)**
+## **EDNiX (EvoDevo NeuroImaging Explorer)**
 
 Simon Clavagnier*, Clément Garin*, Christos Constantinidis, Léon Tremblay, Suliann Ben Hamed
 
