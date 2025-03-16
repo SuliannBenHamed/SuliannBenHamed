@@ -1,4 +1,4 @@
-This github organizes the work of the http://www.BenHamedLab.org and collaborators.
+This github organizes the work of the http://www.BenHamedLab.org and collaborators. Current projects are private and will be made public as they are verified and reach the publication stage. 
 
 
 Other projects BenHamedLab has contributed to:
