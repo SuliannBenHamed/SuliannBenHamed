@@ -12,7 +12,7 @@ Along with EDNiX we will also release MRI datasets and libraries of cross-specie
 
 Coming soon !
 
-# Other projects BenHamedLab has contributed to:
+# Other projects BenHamedLab has contributed to
 
 ## **[The MacqD deep-learning-based model for automatic detection of socially housed laboratory macaques:](https://www.nature.com/articles/s41598-025-95180-x)**
 
