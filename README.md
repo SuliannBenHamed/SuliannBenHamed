@@ -2,7 +2,15 @@
 
 This github organizes the work of [the BenHamedLab](http://www.BenHamedLab.org) and collaborators. Some aspects of this work is also presented here: [The Brain 3.0 project](https://sites.google.com/view/thebrain30project/accueil/). Current projects are private and will be made public as they are verified and reach the publication stage. 
 
+## **EDNiX (EvoDevo NeuroImaging Explorer)**
 
+Simon Clavagnier*, Clément Garin*, Léon Tremblay, Christos Constantinidis, Suliann Ben Hamed
+
+EDNiX is a comprehensive brain MRI image processing pipeline, designed for longittudinal, cross-species and multimodal data imaging. It is highly flexibile and adaptable to various MRI datasets. The pipeline supports anatomical MRI, functional MRI (fMRI), and PET scans images, facilitating data processing from raw images to statistical analyses. It accommodates as much as possible to the various constraints of different species, imaging setups, and acquisition sequences. EDNiX is developed to enhance cross-species and developmental neuroimaging research. EDNiX can be used with any BIDSified MRI dataset and specific atlases.
+
+Along with EDNiX we will also release MRI datasets and libraries of cross-species atlases. 
+
+Coming soon !
 
 # Other projects BenHamedLab has contributed to:
 
@@ -16,12 +24,4 @@ Despite advancements in video-based behaviour analysis and detection models for 
 
 * https://github.com/C-Poirier-Lab/MacqD
 
-## **EDNiX (EvoDevo NeuroImaging Explorer)**
 
-Simon Clavagnier*, Clément Garin*, Léon Tremblay, Christos Constantinidis, Suliann Ben Hamed
-
-EDNiX is a comprehensive brain MRI image processing pipeline, designed for longittudinal, cross-species and multimodal data imaging. It is highly flexibile and adaptable to various MRI datasets. The pipeline supports anatomical MRI, functional MRI (fMRI), and PET scans images, facilitating data processing from raw images to statistical analyses. It accommodates as much as possible to the various constraints of different species, imaging setups, and acquisition sequences. EDNiX is developed to enhance cross-species and developmental neuroimaging research. EDNiX can be used with any BIDSified MRI dataset and specific atlases.
-
-Along with EDNiX we will also release MRI datasets and libraries of cross-species atlases. 
-
-Coming soon !
