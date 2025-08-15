@@ -14,7 +14,7 @@ Coming soon !
 
 ## **[Automated video-based heart rate tracking for the anesthetized and behaving monkey](https://www.nature.com/articles/s41598-020-74954-5)**
 
-Mathilda Froesel*, Quentin Goudard*, Marc Hauser, Maëva Gacoin & Suliann Ben Hamed (2020) **_Scientific Reports_** _volume 10_, Article number: 17940. DOI: (https://doi.org/10.1038/s41598-020-74954-5)
+Mathilda Froesel*, Quentin Goudard*, Marc Hauser, Maëva Gacoin & Suliann Ben Hamed (2020) **_Scientific Reports_** _Vol 10_, 17940. DOI: https://doi.org/10.1038/s41598-020-74954-5
 
     4520 Accesses
 
