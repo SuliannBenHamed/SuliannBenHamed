@@ -10,7 +10,7 @@ EDNiX is a comprehensive brain MRI image processing pipeline, designed for longi
 
 Along with EDNiX we will also release MRI datasets and libraries of cross-species atlases. 
 
-Coming soon !
+Anticipated v1: https://github.com/garincle/EDNiX.
 
 ## **[Automated video-based heart rate tracking for the anesthetized and behaving monkey](https://www.nature.com/articles/s41598-020-74954-5)**
 
