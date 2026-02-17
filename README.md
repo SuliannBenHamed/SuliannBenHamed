@@ -1,6 +1,6 @@
 # BenHamedLab & Co
 
-This github organizes the work of [the BenHamedLab](http://www.BenHamedLab.org) and collaborators. Some aspects of this work is also presented here: [The Brain 3.0 project](https://sites.google.com/view/thebrain30project/accueil/). Current projects are private and will be made public as they are verified and reach the publication stage. 
+This github organizes the work of [the BenHamedLab](http://www.BenHamedLab.org) and collaborators. Some aspects of this work is also presented here: [The Brain 3.0 project](https://sites.google.com/view/thebrain30project/accueil/). Current projects are private and will be made public as they are verified and reach the publication stage. Please visit the official [CASCAD Lab github](https://github.com/CASCAD-lab)
 
 ## **EDNiX (EvoDevo NeuroImaging Explorer)**
 
