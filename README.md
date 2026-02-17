@@ -24,7 +24,7 @@ The DogApp is a structured research platform for cross-species comparative behav
 
 * Will not be disclosed; if you are interested in deploying or adapting the DogApp to your own needs, just aks: we are open to collaborations.
 
-* https://github.com/SuliannBenHamed/DogApp_v2
+* [DogApp](https://github.com/SuliannBenHamed/DogApp_v2)
 
 ## **[Automated video-based heart rate tracking for the anesthetized and behaving monkey](https://www.nature.com/articles/s41598-020-74954-5)**
 
