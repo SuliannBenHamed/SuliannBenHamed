@@ -14,7 +14,15 @@ Along with EDNiX we will also release MRI datasets and libraries of cross-specie
 
 * Anticipated v2: [https://github.com/SuliannBenHamed/EDNiX.](https://github.com/CASCAD-lab/EDNiX)
 
-* A first release of EDNIX was used in: [Junda Zhu*, Clément M. Garin*, Xue-Lian Qi, Anna Machado, Zhengyang Wang, Suliann Ben Hamed, Terrence R. Stanford, Emilio Salinas, Christopher T. Whitlow, Adam W. Anderson, Xin Maizie Zhou, Finnegan J. Calabro, Beatriz Luna & Christos Constantinidis (2025) Longitudinal measures of monkey brain structure and activity through adolescence predict cognitive maturation. _**Nat Neurosci**_ 28, 2344–2355](https://doi-org.insb.bib.cnrs.fr/10.1038/s41593-025-02076-0) 
+* A first release of EDNIX was used in: [Junda Zhu*, Clément M. Garin*, Xue-Lian Qi, Anna Machado, Zhengyang Wang, Suliann Ben Hamed, Terrence R. Stanford, Emilio Salinas, Christopher T. Whitlow, Adam W. Anderson, Xin Maizie Zhou, Finnegan J. Calabro, Beatriz Luna & Christos Constantinidis (2025) Longitudinal measures of monkey brain structure and activity through adolescence predict cognitive maturation. _**Nat Neurosci**_ 28, 2344–2355](https://doi-org.insb.bib.cnrs.fr/10.1038/s41593-025-02076-0)
+
+## **The DogApp**
+
+Suliann Ben Hamed, Clément Garin, Léonie Olivier, Floriane Fournier
+
+The DogApp is a structured research platform for cross-species comparative behavioral data acquisition and analysis. It is designed to support standardized collection of parallel human and canine datasets within a unified methodological framework. The platform integrates validated psychometric measures for human cognitive, affective, and lifestyle profiling with a harmonized behavioral assessment architecture for dogs thus facilitating the analysis of interspecies interactions and shared biopsychosocial patterns. The DogApp is optimized for longitudinal and multi-cohort research protocols. It supports reproducible data structuring, scalable deployment, and integration into comparative psychology and One Health research pipelines.
+
+* Will not be disclosed; if you are interested in deploying or adapting the DogApp to your own needs, just aks: we are open to collaborations.
 
 ## **[Automated video-based heart rate tracking for the anesthetized and behaving monkey](https://www.nature.com/articles/s41598-020-74954-5)**
 
