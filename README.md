@@ -30,6 +30,6 @@ Despite advancements in video-based behaviour analysis and detection models for 
 
 * [The MacqD deep-learning-based model for automatic detection of socially housed laboratory macaques](https://www.nature.com/articles/s41598-025-95180-x)
 
-* https://github.com/C-Poirier-Lab/MacqD
+* [https://github.com/SuliannBenHamed/MacqD](https://github.com/SuliannBenHamed/MacqD)
 
 
