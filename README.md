@@ -24,8 +24,6 @@ Heart rate (HR) is extremely valuable in the study of complex behaviours and the
 
 Coming soon ! 
 
-# Other projects BenHamedLab has contributed to
-
 ## **[The MacqD deep-learning-based model for automatic detection of socially housed laboratory macaques:](https://www.nature.com/articles/s41598-025-95180-x)**
 
 Genevieve Jiawei Moat*, Maxime Gaudet-Trafit*, Julian Paul, Jaume Bacardit, Suliann Ben Hamed, Colline Poirier (2025) **_Scientific Reports_** _Vol 15_, 11883. DOI: https://doi.org/10.1038/s41598-025-95180-x
