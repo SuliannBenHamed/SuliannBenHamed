@@ -10,7 +10,9 @@ EDNiX is a comprehensive brain MRI image processing pipeline, designed for longi
 
 Along with EDNiX we will also release MRI datasets and libraries of cross-species atlases. 
 
-Anticipated v2: https://github.com/garincle/EDNiX.
+* Anticipated v2: [https://github.com/SuliannBenHamed/EDNiX.](https://github.com/CASCAD-lab/EDNiX)
+
+* A first release of EDNIX was used in: [Junda Zhu*, Clément M. Garin*, Xue-Lian Qi, Anna Machado, Zhengyang Wang, Suliann Ben Hamed, Terrence R. Stanford, Emilio Salinas, Christopher T. Whitlow, Adam W. Anderson, Xin Maizie Zhou, Finnegan J. Calabro, Beatriz Luna & Christos Constantinidis (2025) Longitudinal measures of monkey brain structure and activity through adolescence predict cognitive maturation. _**Nat Neurosci**_ 28, 2344–2355](https://doi-org.insb.bib.cnrs.fr/10.1038/s41593-025-02076-0) 
 
 ## **[Automated video-based heart rate tracking for the anesthetized and behaving monkey](https://www.nature.com/articles/s41598-020-74954-5)**
 
