@@ -4,7 +4,7 @@ This github organizes the work of [the BenHamedLab](http://www.BenHamedLab.org) 
 
 ## **EDNiX (EvoDevo NeuroImaging Explorer)**
 
-Simon Clavagnier*, Clément Garin*, Léon Tremblay, Christos Constantinidis, Suliann Ben Hamed
+Clément Garin*, Simon Clavagnier*, Léon Tremblay, Christos Constantinidis, Suliann Ben Hamed
 
 EDNiX is a comprehensive brain MRI image processing pipeline, designed for longittudinal, cross-species and multimodal data imaging. It is highly flexibile and adaptable to various MRI datasets. The pipeline supports anatomical MRI, functional MRI (fMRI), and PET scans images, facilitating data processing from raw images to statistical analyses. It accommodates as much as possible to the various constraints of different species, imaging setups, and acquisition sequences. EDNiX is developed to enhance cross-species and developmental neuroimaging research. EDNiX can be used with any BIDSified MRI dataset and specific atlases.
 
